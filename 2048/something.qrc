@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>left.gif</file>
+        <file>right.gif</file>
+        <file>taunt1.WAV</file>
+        <file>taunt2.WAV</file>
+        <file>background.jpg</file>
+        <file>hua.jpg</file>
+        <file>hang.png</file>
+        <file>lie.png</file>
+    </qresource>
+    <qresource prefix="/achievement">
+        <file>2048_lock.png</file>
+        <file>2048_finish.png</file>
+        <file>first_game_lock.png</file>
+        <file>first_game_finish.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>Effect.mp3</file>
+        <file>Elliot Hsu-Sunken Guardian.mp3</file>
+    </qresource>
+</RCC>
